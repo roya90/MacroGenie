@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# dotenv environment variables file
+.env
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
