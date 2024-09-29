@@ -1,0 +1,93 @@
+{"messages": [{"role": "user", "content": "Food: Spaghetti Bolognese."}, {"role": "model", "content": " Carbohydrates:  Pasta, Tomato sauce, Protein: Ground beef, and Fat: Olive oil."}]}
+{"messages": [{"role": "user", "content": "Food: Chicken Stir-fry."}, {"role": "model", "content": " Carbohydrates:  Rice, Vegetables, Protein: Chicken breast, and Fat: Soy sauce, Sesame oil."}]}
+{"messages": [{"role": "user", "content": "Food: Caesar Salad."}, {"role": "model", "content": " Carbohydrates:  Romaine lettuce, Croutons, Protein: Grilled chicken breast, and Fat: Parmesan cheese, Caesar dressing."}]}
+{"messages": [{"role": "user", "content": "Food: Oatmeal."}, {"role": "model", "content": " Carbohydrates:  Oats, Milk, Protein: -, and Fat: Butter."}]}
+{"messages": [{"role": "user", "content": "Food: Cheeseburger."}, {"role": "model", "content": " Carbohydrates:  Burger bun, Tomato, Lettuce, Protein: Beef patty, and Fat: Cheese, Mayonnaise."}]}
+{"messages": [{"role": "user", "content": "Food: Taco."}, {"role": "model", "content": " Carbohydrates:  Tortilla, Beans, Protein: Ground Beef, and Fat: Cheese, Sour Cream."}]}
+{"messages": [{"role": "user", "content": "Food: Pancakes."}, {"role": "model", "content": " Carbohydrates:  Flour, Sugar, Protein: Eggs, Milk, and Fat: Butter, Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Lasagna."}, {"role": "model", "content": " Carbohydrates:  Pasta, Tomato Sauce, Protein: Ground Beef, and Fat: Cheese."}]}
+{"messages": [{"role": "user", "content": "Food: Sushi."}, {"role": "model", "content": " Carbohydrates:  Rice, Seaweed, Protein: Fish, Crab, and Fat: Fish Oil, Avocado."}]}
+{"messages": [{"role": "user", "content": "Food: Fried Rice."}, {"role": "model", "content": " Carbohydrates:  Rice, Vegetables, Protein: Chicken, Egg, and Fat: Soy Sauce, Sesame Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Steak."}, {"role": "model", "content": " Carbohydrates:  Potato, Vegetables, Protein: Beef, and Fat: Butter, Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Pizza."}, {"role": "model", "content": " Carbohydrates:  Dough, Tomato Sauce, Protein: Cheese, Pepperoni, and Fat: Cheese, Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Burger."}, {"role": "model", "content": " Carbohydrates:  Bun, Lettuce, Protein: Beef Patty, and Fat: Cheese, Mayonnaise."}]}
+{"messages": [{"role": "user", "content": "Food: Salmon Salad."}, {"role": "model", "content": " Carbohydrates:  Lettuce, Cucumbers, Protein: Salmon, and Fat: Olive Oil, Avocado."}]}
+{"messages": [{"role": "user", "content": "Food: Grilled Cheese."}, {"role": "model", "content": " Carbohydrates:  Bread, Butter, Protein: Cheese, and Fat: Butter, Cheese."}]}
+{"messages": [{"role": "user", "content": "Food: Beef Stew."}, {"role": "model", "content": " Carbohydrates:  Potatoes, Carrots, Protein: Beef, and Fat: Oil, Butter."}]}
+{"messages": [{"role": "user", "content": "Food: Chicken Curry."}, {"role": "model", "content": " Carbohydrates:  Rice, Vegetables, Protein: Chicken, and Fat: Coconut Milk."}]}
+{"messages": [{"role": "user", "content": "Food: Vegetable Soup."}, {"role": "model", "content": " Carbohydrates:  Potatoes, Vegetables, Protein: Lentils, and Fat: Olive Oil, Butter."}]}
+{"messages": [{"role": "user", "content": "Food: Shrimp Scampi."}, {"role": "model", "content": " Carbohydrates:  Pasta, Garlic, Protein: Shrimp, and Fat: Butter, Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Eggplant Parmesan."}, {"role": "model", "content": " Carbohydrates:  Breadcrumbs, Tomato Sauce, Protein: Eggplant, and Fat: Cheese, Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Chicken Alfredo."}, {"role": "model", "content": " Carbohydrates:  Pasta, Protein: Chicken, and Fat: Cream, Butter."}]}
+{"messages": [{"role": "user", "content": "Food: Tuna Sandwich."}, {"role": "model", "content": " Carbohydrates:  Bread, Lettuce, Protein: Tuna, and Fat: Mayonnaise."}]}
+{"messages": [{"role": "user", "content": "Food: French Toast."}, {"role": "model", "content": " Carbohydrates:  Bread, Cinnamon, Protein: Eggs, Milk, and Fat: Butter."}]}
+{"messages": [{"role": "user", "content": "Food: Burrito."}, {"role": "model", "content": " Carbohydrates:  Tortilla, Beans, Protein: Beef, Chicken, and Fat: Cheese, Sour Cream."}]}
+{"messages": [{"role": "user", "content": "Food: Clam Chowder."}, {"role": "model", "content": " Carbohydrates:  Potatoes, Corn, Protein: Clams, and Fat: Cream, Butter."}]}
+{"messages": [{"role": "user", "content": "Food: Meatloaf."}, {"role": "model", "content": " Carbohydrates:  Bread crumbs, Ketchup, Protein: Ground Beef, and Fat: Eggs, Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Greek Salad."}, {"role": "model", "content": " Carbohydrates:  Lettuce, Tomato, Cucumber, Protein: Feta Cheese, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Quesadilla."}, {"role": "model", "content": " Carbohydrates:  Tortilla, Protein: Cheese, Chicken, and Fat: Butter, Cheese."}]}
+{"messages": [{"role": "user", "content": "Food: Beef Tacos."}, {"role": "model", "content": " Carbohydrates:  Tortilla, Lettuce, Protein: Ground Beef, and Fat: Cheese, Sour Cream."}]}
+{"messages": [{"role": "user", "content": "Food: Chicken Wings."}, {"role": "model", "content": " Carbohydrates:  -, Protein: Chicken, and Fat: Butter, Hot Sauce."}]}
+{"messages": [{"role": "user", "content": "Food: Pad Thai."}, {"role": "model", "content": " Carbohydrates:  Rice noodles, Vegetables, Protein: Shrimp, Tofu, and Fat: Peanut Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Fish and Chips."}, {"role": "model", "content": " Carbohydrates:  Potatoes, Protein: Fish, and Fat: Oil."}]}
+{"messages": [{"role": "user", "content": "Food: BLT Sandwich."}, {"role": "model", "content": " Carbohydrates:  Bread, Lettuce, Tomato, Protein: Bacon, and Fat: Mayonnaise."}]}
+{"messages": [{"role": "user", "content": "Food: Roast Chicken."}, {"role": "model", "content": " Carbohydrates:  -, Protein: Chicken, and Fat: Olive Oil, Butter."}]}
+{"messages": [{"role": "user", "content": "Food: Mac and Cheese."}, {"role": "model", "content": " Carbohydrates:  Pasta, Protein: Cheese, and Fat: Butter, Milk."}]}
+{"messages": [{"role": "user", "content": "Food: Gazpacho."}, {"role": "model", "content": " Carbohydrates:  Tomatoes, Cucumbers, Protein: -, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Chili Con Carne."}, {"role": "model", "content": " Carbohydrates:  Beans, Tomato, Protein: Ground Beef, and Fat: Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Cobb Salad."}, {"role": "model", "content": " Carbohydrates:  Lettuce, Avocado, Tomato, Protein: Chicken, Bacon, Egg, and Fat: Cheese, Dressing."}]}
+{"messages": [{"role": "user", "content": "Food: Hot Dog."}, {"role": "model", "content": " Carbohydrates:  Bun, Protein: Sausage, and Fat: Ketchup, Mustard."}]}
+{"messages": [{"role": "user", "content": "Food: Ramen."}, {"role": "model", "content": " Carbohydrates:  Noodles, Vegetables, Protein: Pork, Egg, and Fat: Sesame Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Pulled Pork Sandwich."}, {"role": "model", "content": " Carbohydrates:  Bun, Protein: Pork, and Fat: Barbecue Sauce."}]}
+{"messages": [{"role": "user", "content": "Food: Pho."}, {"role": "model", "content": " Carbohydrates:  Rice noodles, Bean sprouts, Protein: Beef, and Fat: Fish Sauce."}]}
+{"messages": [{"role": "user", "content": "Food: Falafel."}, {"role": "model", "content": " Carbohydrates:  Chickpeas, Parsley, Protein: -, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Beef Stroganoff."}, {"role": "model", "content": " Carbohydrates:  Pasta, Protein: Beef, and Fat: Sour Cream, Butter."}]}
+{"messages": [{"role": "user", "content": "Food: Chicken Fajitas."}, {"role": "model", "content": " Carbohydrates:  Tortilla, Peppers, Protein: Chicken, and Fat: Sour Cream, Cheese."}]}
+{"messages": [{"role": "user", "content": "Food: Goulash."}, {"role": "model", "content": " Carbohydrates:  Pasta, Tomato, Protein: Beef, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Tofu Stir-fry."}, {"role": "model", "content": " Carbohydrates:  Rice, Vegetables, Protein: Tofu, and Fat: Soy Sauce."}]}
+{"messages": [{"role": "user", "content": "Food: Poke Bowl."}, {"role": "model", "content": " Carbohydrates:  Rice, Avocado, Protein: Fish, and Fat: Soy Sauce."}]}
+{"messages": [{"role": "user", "content": "Food: Lentil Soup."}, {"role": "model", "content": " Carbohydrates:  Lentils, Carrots, Protein: -, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Shrimp Fried Rice."}, {"role": "model", "content": " Carbohydrates:  Rice, Vegetables, Protein: Shrimp, and Fat: Soy Sauce, Sesame Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Veggie Burger."}, {"role": "model", "content": " Carbohydrates:  Bun, Lettuce, Protein: Veggie Patty, and Fat: Mayonnaise."}]}
+{"messages": [{"role": "user", "content": "Food: Baked Ziti."}, {"role": "model", "content": " Carbohydrates:  Pasta, Tomato Sauce, Protein: Cheese, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Margherita Pizza."}, {"role": "model", "content": " Carbohydrates:  Dough, Tomato Sauce, Protein: Cheese, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Miso Soup."}, {"role": "model", "content": " Carbohydrates:  Seaweed, Tofu, Protein: -, and Fat: Miso."}]}
+{"messages": [{"role": "user", "content": "Food: Egg Salad Sandwich."}, {"role": "model", "content": " Carbohydrates:  Bread, Lettuce, Protein: Eggs, and Fat: Mayonnaise."}]}
+{"messages": [{"role": "user", "content": "Food: Enchiladas."}, {"role": "model", "content": " Carbohydrates:  Tortilla, Beans, Protein: Chicken, and Fat: Cheese, Sour Cream."}]}
+{"messages": [{"role": "user", "content": "Food: Chicken Parmesan."}, {"role": "model", "content": " Carbohydrates:  Bread crumbs, Tomato Sauce, Protein: Chicken, and Fat: Cheese, Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: French Onion Soup."}, {"role": "model", "content": " Carbohydrates:  Bread, Onions, Protein: -, and Fat: Cheese, Butter."}]}
+{"messages": [{"role": "user", "content": "Food: Spaghetti Carbonara."}, {"role": "model", "content": " Carbohydrates:  Pasta, Protein: Bacon, and Fat: Egg, Cheese."}]}
+{"messages": [{"role": "user", "content": "Food: Teriyaki Chicken."}, {"role": "model", "content": " Carbohydrates:  Rice, Vegetables, Protein: Chicken, and Fat: Teriyaki Sauce."}]}
+{"messages": [{"role": "user", "content": "Food: Pesto Pasta."}, {"role": "model", "content": " Carbohydrates:  Pasta, Protein: -, and Fat: Pesto Sauce."}]}
+{"messages": [{"role": "user", "content": "Food: Broccoli Cheddar Soup."}, {"role": "model", "content": " Carbohydrates:  Broccoli, Protein: Cheese, and Fat: Butter, Cream."}]}
+{"messages": [{"role": "user", "content": "Food: Pulled Chicken Tacos."}, {"role": "model", "content": " Carbohydrates:  Tortilla, Lettuce, Protein: Chicken, and Fat: Cheese, Sour Cream."}]}
+{"messages": [{"role": "user", "content": "Food: Stuffed Peppers."}, {"role": "model", "content": " Carbohydrates:  Bell Peppers, Rice, Protein: Beef, and Fat: Cheese."}]}
+{"messages": [{"role": "user", "content": "Food: Quiche Lorraine."}, {"role": "model", "content": " Carbohydrates:  Pastry, Protein: Bacon, Eggs, and Fat: Cheese, Cream."}]}
+{"messages": [{"role": "user", "content": "Food: BBQ Ribs."}, {"role": "model", "content": " Carbohydrates:  -, Protein: Pork, and Fat: Barbecue Sauce."}]}
+{"messages": [{"role": "user", "content": "Food: Caprese Salad."}, {"role": "model", "content": " Carbohydrates:  Tomatoes, Basil, Protein: Mozzarella Cheese, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Shrimp Tacos."}, {"role": "model", "content": " Carbohydrates:  Tortilla, Lettuce, Protein: Shrimp, and Fat: Cheese, Sour Cream."}]}
+{"messages": [{"role": "user", "content": "Food: Beef Bourguignon."}, {"role": "model", "content": " Carbohydrates:  Potatoes, Carrots, Protein: Beef, and Fat: Wine, Butter."}]}
+{"messages": [{"role": "user", "content": "Food: Chicken Pot Pie."}, {"role": "model", "content": " Carbohydrates:  Pie Crust, Protein: Chicken, Peas, and Fat: Butter, Cream."}]}
+{"messages": [{"role": "user", "content": "Food: Veggie Stir-fry."}, {"role": "model", "content": " Carbohydrates:  Rice, Vegetables, Protein: -, and Fat: Soy Sauce."}]}
+{"messages": [{"role": "user", "content": "Food: Minestrone Soup."}, {"role": "model", "content": " Carbohydrates:  Pasta, Beans, Protein: -, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Fettuccine Alfredo."}, {"role": "model", "content": " Carbohydrates:  Pasta, Protein: -, and Fat: Butter, Cream."}]}
+{"messages": [{"role": "user", "content": "Food: Gyro."}, {"role": "model", "content": " Carbohydrates:  Pita, Lettuce, Tomato, Protein: Lamb, and Fat: Tzatziki Sauce."}]}
+{"messages": [{"role": "user", "content": "Food: Ratatouille."}, {"role": "model", "content": " Carbohydrates:  Eggplant, Zucchini, Tomato, Protein: -, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Chicken Noodle Soup."}, {"role": "model", "content": " Carbohydrates:  Noodles, Carrots, Protein: Chicken, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Shakshuka."}, {"role": "model", "content": " Carbohydrates:  Tomatoes, Peppers, Protein: Eggs, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Beef Wellington."}, {"role": "model", "content": " Carbohydrates:  Pastry, Mushrooms, Protein: Beef, and Fat: Butter."}]}
+{"messages": [{"role": "user", "content": "Food: Grilled Salmon."}, {"role": "model", "content": " Carbohydrates:  -, Protein: Salmon, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Black Bean Soup."}, {"role": "model", "content": " Carbohydrates:  Black Beans, Onions, Protein: -, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Tuna Casserole."}, {"role": "model", "content": " Carbohydrates:  Pasta, Peas, Protein: Tuna, and Fat: Cheese, Cream."}]}
+{"messages": [{"role": "user", "content": "Food: Sweet and Sour Chicken."}, {"role": "model", "content": " Carbohydrates:  Rice, Pineapple, Protein: Chicken, and Fat: Sweet and Sour Sauce."}]}
+{"messages": [{"role": "user", "content": "Food: Paella."}, {"role": "model", "content": " Carbohydrates:  Rice, Peas, Protein: Seafood, Chicken, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Chicken Kebab."}, {"role": "model", "content": " Carbohydrates:  Pita, Vegetables, Protein: Chicken, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Butternut Squash Soup."}, {"role": "model", "content": " Carbohydrates:  Butternut Squash, Protein: -, and Fat: Cream, Butter."}]}
+{"messages": [{"role": "user", "content": "Food: Veal Piccata."}, {"role": "model", "content": " Carbohydrates:  Pasta, Protein: Veal, and Fat: Butter, Lemon."}]}
+{"messages": [{"role": "user", "content": "Food: Greek Yogurt Parfait."}, {"role": "model", "content": " Carbohydrates:  Granola, Berries, Protein: Greek Yogurt, and Fat: Honey."}]}
+{"messages": [{"role": "user", "content": "Food: Spanakopita."}, {"role": "model", "content": " Carbohydrates:  Phyllo Dough, Spinach, Protein: Feta Cheese, and Fat: Olive Oil."}]}
+{"messages": [{"role": "user", "content": "Food: Gnocchi."}, {"role": "model", "content": " Carbohydrates:  Potatoes, Protein: -, and Fat: Butter."}]}
+{"messages": [{"role": "user", "content": "Food: Chicken Caesar Wrap."}, {"role": "model", "content": " Carbohydrates:  Tortilla, Lettuce, Protein: Chicken, and Fat: Caesar Dressing."}]}
+{"messages": [{"role": "user", "content": "Food: Beef Enchiladas."}, {"role": "model", "content": " Carbohydrates:  Tortilla, Beans, Protein: Beef, and Fat: Cheese, Enchilada Sauce."}]}
+{"messages": [{"role": "user", "content": "Food: Souvlaki."}, {"role": "model", "content": " Carbohydrates:  Pita, Lettuce, Tomato, Protein: Pork, and Fat: Tzatziki Sauce."}]}
+{"messages": [{"role": "user", "content": "Food: Tomato Basil Soup."}, {"role": "model", "content": " Carbohydrates:  Tomatoes, Basil, Protein: -, and Fat: Olive Oil."}]}
